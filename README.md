@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shlok Bhalmey</h1>
+<h1 align="center">Hi 👋 I'm Shlok Bhalmey</h1>
 <h3 align="center">IOT enthusiast turned to JAVA , Python</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shlokiib&label=Profile%20views&color=0e75b6&style=flat" alt="shlokiib" /> </p>
