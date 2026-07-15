@@ -20,7 +20,7 @@ I'm an Electronics & Communication Engineering student who works across the full
 - 🧠 Exploring **edge AI & computer vision** for real-time object detection and autonomous inspection
 - 🔧 Comfortable across **hardware, firmware, embedded Linux, and backend/AI software**
 - 🌱 Currently deepening my knowledge of **STM32, PCB design, and AI infrastructure**
-- 📫 Reach me at: `your.email@example.com`
+- 📫 Reach me at: `sbhalmey@gmail.com`
 
 ---
 
